@@ -2,8 +2,8 @@
 
 # 常用的方法
 
-![image.png](image.png)
+![image.png](./data/image.png)
 
 # 字符串規則
 
-![image.png](image%201.png)
+![image.png](./data/image%201.png)
